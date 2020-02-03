@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://foowaileih.viennaphp.org/sitemap.xml
